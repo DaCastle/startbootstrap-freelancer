@@ -34,11 +34,11 @@
         templateUrl: 'angularJS/directives/portfolioModals.html'
       };
     });
-    
+
 
 
     homePage.controller('homeController', ['$scope',
         function ($scope) {
-          $scope.keyWords = "Web Developer - Problem Solver - User Experience Designer";
+          $scope.keyWords = "professional problem solver";
         }]);
 })();
