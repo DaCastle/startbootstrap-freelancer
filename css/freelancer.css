@@ -514,3 +514,9 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+
+.rounded-image {
+  border-radius: 50%;
+  height: 24em;
+  width: 20em;
+}
