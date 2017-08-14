@@ -39,6 +39,6 @@
 
     homePage.controller('homeController', ['$scope',
         function ($scope) {
-          $scope.keyWords = "professional problem solver";
+          $scope.keyWords = "Communication & Problem Solving";
         }]);
 })();
