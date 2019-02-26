@@ -39,6 +39,6 @@
 
     homePage.controller('homeController', ['$scope',
         function ($scope) {
-          $scope.keyWords = "Communication & Problem Solving";
+          $scope.keyWords = "Frontend Software Engineer";
         }]);
 })();
